@@ -4,29 +4,18 @@
   grid-template-rows: 1fr 1fr;
   
 }
-.item-a {
- 
-  background-color:red;
-}
-.item-b {
- 
-  background-color: blue;
-}
-.item-c {
-  
-  background-color: green;
-}
+
 .item-d {
   
   background-color: yellow;
+  border-radius: 50%;
+  height: 100vmin;
+width: 100vmin;
+
 }
 ul{
 list-style-type:none;
-height: 100vh ;
+height: 200vh ;
 width: 100vw;
 
-}
-h1{
-	height: 100vh ;
-width: 100vw;
 }
